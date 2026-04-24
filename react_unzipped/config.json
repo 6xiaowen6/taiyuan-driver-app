@@ -1,0 +1,25 @@
+{
+  "routes": [
+    { "path": "/", "src": "src/pages/SplashPage.tsx" },
+    { "path": "/home", "src": "src/pages/HomePage.tsx" },
+    { "path": "/login", "src": "src/pages/LoginPage.tsx" },
+    { "path": "/profile-setup", "src": "src/pages/ProfileSetupPage.tsx" },
+    { "path": "/ocr", "src": "src/pages/OcrPage.tsx" },
+    { "path": "/order-edit", "src": "src/pages/OrderEditPage.tsx" },
+    { "path": "/calculate", "src": "src/pages/CalculatePage.tsx" },
+    { "path": "/result", "src": "src/pages/ResultPage.tsx" },
+    { "path": "/history", "src": "src/pages/HistoryPage.tsx" },
+    { "path": "/rules", "src": "src/pages/RulesPage.tsx" },
+    { "path": "/services", "src": "src/pages/ServicesPage.tsx" },
+    { "path": "/service-detail", "src": "src/pages/ServiceDetailPage.tsx" },
+    { "path": "/messages", "src": "src/pages/MessagesPage.tsx" },
+    { "path": "/profile", "src": "src/pages/ProfilePage.tsx" },
+    { "path": "/settings", "src": "src/pages/SettingsPage.tsx" },
+    { "path": "/about", "src": "src/pages/AboutPage.tsx" },
+    { "path": "/help", "src": "src/pages/HelpPage.tsx" },
+    { "path": "/feedback", "src": "src/pages/FeedbackPage.tsx" }
+  ],
+  "components": [
+    { "name": "MobileFrame", "src": "src/components/MobileFrame.tsx" }
+  ]
+}
